@@ -2,7 +2,7 @@ name: issue2hexo
 
 env:
   # Pages Deploy Repo
-  PUBLISH_REPOSITORY: cloudswave/cloudswave.github.io
+  PUBLISH_REPOSITORY: briteming/cb
   # GITHUB TOKEN
   GITHUB_TOKEN: ${{ secrets.BLOG_TOKEN }}
 on:
